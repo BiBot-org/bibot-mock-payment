@@ -1,9 +1,9 @@
-import MainComponent from "@/components/main/mainComponent";
+import LoadingComponent from "@/components/main/loadingComponent";
 
-export default async function Home() {
+export default function Loading() {
   return (
     <div className="flex flex-row items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0 w-full">
-      <MainComponent />
+      <LoadingComponent />
     </div>
   );
 }
