@@ -57,9 +57,22 @@ _Bibot OCR 기반 자동 영수증 경비 처리 서비스와 연계되는 유�
 <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios"/>
 
 - React 18.2.0
+- React-countup 6.4.2
+- React-dom 18.2.0
+- React-slick 0.29.0
+- Recoil 0.7.7
 - Typescript 5.1.3 
 - Next.js 13.4.4
 - Next-auth 4.22.1
+- Next-pwa 5.6.0
+- Next-themes 0.2.1
+- axios 1.4.0
+- cross-env 7.0.3
+- env-cmd 10.1.0
+- formik 2.4.0
+- uuid 9.0.0
+- yup 1.2.0
+
 ## Infra
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/keycloak-008aaa?style=for-the-badge&logo=data:image/svg+xml;base64,PCEtLSBSZXBsYWNlIHRoZSBjb250ZW50cyBvZiB0aGlzIGVkaXRvciB3aXRoIHlvdXIgU1ZHIGNvZGUgLS0+Cgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgPGNpcmNsZSBjeD0iNTEyIiBjeT0iNTEyIiByPSI1MTIiIHN0eWxlPSJmaWxsOiMwMDhhYWEiLz4KICAgPHBhdGggZD0iTTc4Ni4yIDM5NS41aC04MC42Yy0xLjUgMC0zLS44LTMuNy0yLjFsLTY0LjctMTEyLjJjLS44LTEuMy0yLjItMi4xLTMuOC0yLjFoLTI2NGMtMS41IDAtMyAuOC0zLjcgMi4xbC02Ny4zIDExNi40LTY0LjggMTEyLjJjLS43IDEuMy0uNyAyLjkgMCA0LjNsNjQuOCAxMTIuMiA2Ny4yIDExNi41Yy43IDEuMyAyLjIgMi4yIDMuNyAyLjFoMjY0LjFjMS41IDAgMy0uOCAzLjgtMi4xTDcwMiA2MzAuNmMuNy0xLjMgMi4yLTIuMiAzLjctMi4xaDgwLjZjMi43IDAgNC44LTIuMiA0LjgtNC44VjQwMC40Yy0uMS0yLjctMi4zLTQuOS00LjktNC45ek00NzcuNSA2MzAuNmwtMjAuMyAzNWMtLjMuNS0uOCAxLTEuMyAxLjMtLjYuMy0xLjIuNS0xLjkuNWgtNDAuM2MtMS40IDAtMi43LS43LTMuMy0ybC02MC4xLTEwNC4zLTUuOS0xMC4zLTIxLjYtMzYuOWMtLjMtLjUtLjUtMS4xLS40LTEuOCAwLS42LjItMS4zLjUtMS44bDIxLjctMzcuNiA2NS45LTExNGMuNy0xLjIgMi0yIDMuMy0ySDQ1NGMuNyAwIDEuNC4yIDIuMS41LjUuMyAxIC43IDEuMyAxLjNsMjAuMyAzNS4yYy42IDEuMi41IDIuNy0uMiAzLjhsLTY1LjEgMTEyLjhjLS4zLjUtLjQgMS4xLS40IDEuNiAwIC42LjIgMS4xLjQgMS42bDY1LjEgMTEyLjdjLjkgMS41LjggMy4xIDAgNC40em0yMDIuMS0xMTYuN0w2NTggNTUwLjhsLTUuOSAxMC4zTDU5MiA2NjUuNGMtLjcgMS4yLTEuOSAyLTMuMyAyaC00MC4zYy0uNyAwLTEuMy0uMi0xLjktLjUtLjUtLjMtMS0uNy0xLjMtMS4zbC0yMC4zLTM1Yy0uOS0xLjMtLjktMi45LS4xLTQuMmw2NS4xLTExMi43Yy4zLS41LjQtMS4xLjQtMS42IDAtLjYtLjItMS4xLS40LTEuNmwtNjUuMS0xMTIuOGMtLjctMS4yLS44LTIuNi0uMi0zLjhsMjAuMy0zNS4yYy4zLS41LjgtMSAxLjMtMS4zLjYtLjQgMS4zLS41IDIuMS0uNWg0MC40YzEuNCAwIDIuNy43IDMuMyAybDY1LjkgMTE0IDIxLjcgMzcuNmMuMy42LjUgMS4yLjUgMS44IDAgLjQtLjIgMS0uNSAxLjZ6IiBzdHlsZT0iZmlsbDojZmZmIi8+Cjwvc3ZnPg=="/>  
