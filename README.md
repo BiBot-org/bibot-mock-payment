@@ -47,9 +47,14 @@ _Bibot OCR 기반 자동 영수증 경비 처리 서비스와 연계되는 유�
 - Apache Kafka 2.13-2.8.1
 
 ## Frontend
-<img src="https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript"/>  
+<img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=TypeScript"/>  
+<img src="https://img.shields.io/badge/envcmd-ffffff?style=for-the-badge&logo=dotenv"/>
+<img src="https://img.shields.io/badge/reactquery-ffffff?style=for-the-badge&logo=reactquery"/> 
+<img src="https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa"/> 
+<img src="https://img.shields.io/badge/recoil-000000?style=for-the-badge&logo=recoil"/> 
+<img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios"/>
 
 - React 18.2.0
 - Typescript 5.1.3 
